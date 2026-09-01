@@ -23,7 +23,7 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 |------|-------------|
 | **ID** | HU-01 |
 | **Título** | Crear torneo |
-| **Descripción** | Como organizador quiero crear un torneo ingresando su información básica, fecha, costo de inscripción y reglas para gestionar y habilitar un nuevo torneo en TechCup. |
+| **Descripción** | Como organizador quiero crear un torneo ingresando su información básica, fecha, costo de inscripción y reglas para gestionar y habilitar un nuevo torneo en TechCup |
 | **Prioridad** | Alta |
 | **Estimación** | 5 puntos de historia |
 
@@ -33,7 +33,7 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 |------|-------------|
 | **ID** | HU-02 |
 | **Título** | Realizar pago de inscripción |
-| **Descripción** | Como capitán de equipo quiero realizar el pago de inscripción mediante PSE para que mi equipo pueda participar en el torneo activo. |
+| **Descripción** | Como capitán de equipo quiero realizar el pago de inscripción mediante PSE para que mi equipo pueda participar en el torneo activo |
 | **Prioridad** | Alta |
 | **Estimación** | 8 puntos de historia |
 
