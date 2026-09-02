@@ -3,5 +3,5 @@
 | Rol Scrum | Miembro del Equipo |
 | :--- | :--- |
 | **Product Owner** | Yazid Alejandro Sánchez Sánchez|
-| **Scrum Master** | Daniel Santiago Ibáñez González|
-| **Developer** | Sergio Andres Vega Pachón|
+| **Scrum Master** | Sergio Andres Vega Pachón|
+| **Developer** | Daniel Santiago Ibáñez González|
