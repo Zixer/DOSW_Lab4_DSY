@@ -24,8 +24,6 @@
 | **ID** | HU-01 |
 | **Título** | Crear torneo |
 | **Descripción** | Como organizador quiero crear un torneo ingresando su información básica, fecha, costo de inscripción y reglas para registrar un nuevo torneo dentro de TechCup. |
-| **Prioridad** | Alta |
-| **Justificación de prioridad** | Es la funcionalidad principal de la épica, ya que debe existir un torneo antes de que puedan realizarse las demás operaciones de gestión. |
 
 ---
 
@@ -36,8 +34,6 @@
 | **ID** | HU-02 |
 | **Título** | Actualizar información del torneo |
 | **Descripción** | Como organizador quiero actualizar la información de un torneo para mantener sus datos correctos y actualizados cuando sea necesario. |
-| **Prioridad** | Media |
-| **Justificación de prioridad** | Es importante para corregir o modificar la información de un torneo, pero el sistema puede funcionar inicialmente si los datos ingresados durante la creación son correctos. |
 
 ---
 
@@ -48,8 +44,6 @@
 | **ID** | HU-03 |
 | **Título** | Cambiar estado del torneo |
 | **Descripción** | Como organizador quiero cambiar el estado de un torneo para reflejar correctamente la etapa en la que se encuentra. |
-| **Prioridad** | Alta |
-| **Justificación de prioridad** | Los estados permiten controlar el ciclo de vida del torneo y determinar las operaciones que pueden realizarse en cada momento. |
 
 ---
 
@@ -60,8 +54,6 @@
 | **ID** | HU-04 |
 | **Título** | Activar torneo |
 | **Descripción** | Como organizador quiero activar un torneo para permitir que los equipos puedan iniciar su proceso de inscripción. |
-| **Prioridad** | Alta |
-| **Justificación de prioridad** | Solo los equipos del torneo activo pueden realizar su proceso de inscripción y, según las reglas de negocio, únicamente puede existir un torneo activo al mismo tiempo. |
 
 ---
 
