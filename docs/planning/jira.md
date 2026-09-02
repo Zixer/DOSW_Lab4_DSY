@@ -7,7 +7,6 @@
 ### 1. Épica: Gestión de torneos
 
 | ID | Título | Stakeholder | Evidencia en Jira |
-
 |:---:|---|---|---|
 | EP-01 | Gestión de torneos | Organizador del torneo | ![Épica](../images/epic.png) |
 --
