@@ -46,6 +46,10 @@
 | Prioridad | Justificación |
 | ------ | ------ |
 | Media  | Es importante para corregir o modificar la información de un torneo, pero el sistema puede funcionar inicialmente si los datos ingresados durante la creación son correctos. |
+
+**Estimación Planning Poker:**
+* **Story Points:** 3
+
 ---
 
 ### 2.3 Historia de Usuario 3
@@ -59,6 +63,10 @@
 | Prioridad | Justificación |
 | ------ | ------ |
 | Medio  | Los estados permiten controlar el ciclo de vida del torneo y determinar las operaciones que pueden realizarse en cada momento. |
+
+**Estimación Planning Poker:**
+* **Story Points:** 2
+
 ---
 
 ### 2.4 Historia de Usuario 4
@@ -72,6 +80,9 @@
 | Prioridad | Justificación |
 | ------ | ------ |
 | Alta   | Solo los equipos del torneo activo pueden realizar su proceso de inscripción y, según las reglas de negocio, únicamente puede existir un torneo activo al mismo tiempo. |
+
+**Estimación Planning Poker:**
+* **Story Points:** 5
 
 ---
 
