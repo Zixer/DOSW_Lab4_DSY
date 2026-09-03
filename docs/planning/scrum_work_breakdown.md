@@ -29,6 +29,10 @@
 | ------ | ------ |
 |  Alta  | Es la funcionalidad principal de la épica, ya que debe existir un torneo antes de que puedan realizarse las demás operaciones de gestión.|
 
+**Estimación Planning Poker:**
+* **Story Points:** 8
+* **Video de la dinámica:** [Ver grabación aquí](https://drive.google.com/file/d/1Q3ee1zECmCmxjsLe8nZsjqO9mCTWPirY/view?usp=sharing)
+
 ---
 
 ### 2.2 Historia de Usuario 2
