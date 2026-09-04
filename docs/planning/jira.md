@@ -24,7 +24,7 @@
 |:---:|:---:|---|---|
 | HU-01 | TR-01 | Crear interfaz de creación de torneo | ![Tarea 1](../images/tarea1.png) |
 | HU-01 | TR-02 | Implementar almacenamiento de torneos | ![Tarea 2](../images/tarea2.png) |
-| HU-01 | TR-03 | Implementar lógica de creación de torneos | !\[Tarea 3](../images/tarea3.png) |
+| HU-01 | TR-03 | Implementar lógica de creación de torneos | ![Tarea 3](../images/tarea3.png) |
 | HU-01 | TR-04 | Integrar creación de torneo | ![Tarea 4](../images/tarea4.png) |
 | HU-02 | TR-05 | Crear interfaz de edición de torneo | ![Tarea 5](../images/tarea5.png) |
 | HU-02 | TR-06 | Implementar lógica de actualización | ![Tarea 6](../images/tarea6.png) |
