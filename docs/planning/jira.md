@@ -43,3 +43,9 @@
 
 # ![Backlog del proyecto](../images/backlog.png)
 
+### 6. Sprint Backlog
+
+# ![Sprint 1](../images/sprint1.png)
+
+**Justificación de la planeación:**
+Para este primer sprint priorizamos **HU-01 (Crear torneo)** porque es la base de todo el sistema, si no podemos registrar ni guardar torneos, no tiene sentido avanzar con el resto de opciones. Decidimos agregar también **HU-04 (Activar torneo)** para completar de una vez el flujo esencial del organizador, asegurando que desde esta primera entrega el torneo quede habilitado y listo para que los equipos puedan inscribirse sin bloqueos
