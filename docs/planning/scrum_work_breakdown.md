@@ -8,7 +8,7 @@
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | EP-01 |
+| **ID** | SCRUM-5 |
 | **Título** | Gestión de torneos |
 | **Descripción** | TechCup necesita permitir la creación y administración de torneos para centralizar su información y gestionar correctamente su estado durante su ciclo de vida. |
 | **Stakeholder** | Organizador del torneo |
@@ -21,7 +21,7 @@
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | HU-01 |
+| **ID** | SCRUM-6 |
 | **Título** | Crear torneo |
 | **Descripción** | Como organizador quiero crear un torneo ingresando su información básica, fecha, costo de inscripción y reglas para registrar un nuevo torneo dentro de TechCup. |
 
@@ -39,7 +39,7 @@
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | HU-02 |
+| **ID** | SCRUM-7 |
 | **Título** | Actualizar información del torneo |
 | **Descripción** | Como organizador quiero actualizar la información de un torneo para mantener sus datos correctos y actualizados cuando sea necesario. |
 
@@ -56,7 +56,7 @@
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | HU-03 |
+| **ID** | SCRUM-8 |
 | **Título** | Cambiar estado del torneo |
 | **Descripción** | Como organizador quiero cambiar el estado de un torneo para reflejar correctamente la etapa en la que se encuentra. |
 
@@ -73,7 +73,7 @@
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | HU-04 |
+| **ID** | SCRUM-9 |
 | **Título** | Activar torneo |
 | **Descripción** | Como organizador quiero activar un torneo para permitir que los equipos puedan iniciar su proceso de inscripción. |
 
@@ -94,7 +94,7 @@
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | TR-01 |
+| **ID** | SCRUM-17 |
 | **Título** | Crear interfaz de creación de torneo |
 | **ID de la Historia de Uso asociada** | HU-01 |
 | **Descripción** | Diseñar e implementar el formulario que permita al organizador ingresar la información necesaria para crear un torneo. |
@@ -104,7 +104,7 @@
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | TR-02 |
+| **ID** | SCRUM-18 |
 | **Título** | Implementar almacenamiento de torneos |
 | **ID de la Historia de Uso asociada** | HU-01 |
 | **Descripción** | Crear la estructura necesaria para almacenar la información de los torneos en el sistema. |
@@ -114,7 +114,7 @@
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | TR-03 |
+| **ID** | SCRUM-19 |
 | **Título** | Implementar lógica de creación de torneos |
 | **ID de la Historia de Uso asociada** | HU-01 |
 | **Descripción** | Implementar la lógica para registrar un torneo y validar las reglas de negocio relacionadas con su creación, incluyendo el ID único de cinco dígitos y la duración máxima de un día. |
@@ -124,11 +124,11 @@
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | TR-04 |
+| **ID** | SCRUM-20 |
 | **Título** | Integrar creación de torneo |
 | **ID de la Historia de Uso asociada** | HU-01 |
 | **Descripción** | Integrar la interfaz de creación con la lógica y el almacenamiento de torneos. |
-| **Tareas requisito** | TR-01, TR-03 |
+| **Tareas requisito** | SCRUM-17, SCRUM-19 |
 
 ---
 
@@ -138,7 +138,7 @@
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | TR-05 |
+| **ID** | SCRUM-21 |
 | **Título** | Crear interfaz de edición de torneo |
 | **ID de la Historia de Uso asociada** | HU-02 |
 | **Descripción** | Diseñar e implementar la interfaz que permita al organizador modificar la información de un torneo existente. |
@@ -148,7 +148,7 @@
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | TR-06 |
+| **ID** | SCRUM-22 |
 | **Título** | Implementar lógica de actualización |
 | **ID de la Historia de Uso asociada** | HU-02 |
 | **Descripción** | Implementar la lógica necesaria para validar y actualizar la información modificable de un torneo. |
@@ -158,11 +158,11 @@
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | TR-07 |
+| **ID** | SCRUM-23 |
 | **Título** | Integrar actualización de torneo |
 | **ID de la Historia de Uso asociada** | HU-02 |
 | **Descripción** | Integrar la interfaz de edición con la lógica de actualización y guardar los cambios realizados por el organizador. |
-| **Tareas requisito** | TR-05, TR-06 |
+| **Tareas requisito** | SCRUM-21, SCRUM-22 |
 
 ---
 
@@ -172,7 +172,7 @@
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | TR-08 |
+| **ID** | SCRUM-24 |
 | **Título** | Crear control de cambio de estado |
 | **ID de la Historia de Uso asociada** | HU-03 |
 | **Descripción** | Diseñar e implementar la interfaz que permita al organizador seleccionar un nuevo estado para el torneo. |
@@ -182,7 +182,7 @@
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | TR-09 |
+| **ID** | SCRUM-25 |
 | **Título** | Implementar validación de estados |
 | **ID de la Historia de Uso asociada** | HU-03 |
 | **Descripción** | Implementar la lógica para validar los estados permitidos del torneo: Pending, Active, In Progress, Closed y Cancelled. |
@@ -192,11 +192,11 @@
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | TR-10 |
+| **ID** | SCRUM-26 |
 | **Título** | Actualizar estado del torneo |
 | **ID de la Historia de Uso asociada** | HU-03 |
 | **Descripción** | Implementar la actualización y almacenamiento del nuevo estado seleccionado por el organizador. |
-| **Tareas requisito** | TR-08, TR-09 |
+| **Tareas requisito** | SCRUM-24, SCRUM-25 |
 
 ---
 
@@ -206,7 +206,7 @@
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | TR-11 |
+| **ID** | SCRUM-27 |
 | **Título** | Consultar torneo activo |
 | **ID de la Historia de Uso asociada** | HU-04 |
 | **Descripción** | Implementar la consulta que permita determinar si actualmente existe otro torneo con estado Active. |
@@ -216,28 +216,8 @@
 
 | Campo | Descripción |
 |------|-------------|
-| **ID** | TR-12 |
+| **ID** | SCRUM-28 |
 | **Título** | Validar activación del torneo |
 | **ID de la Historia de Uso asociada** | HU-04 |
 | **Descripción** | Implementar la regla de negocio que impida activar un torneo cuando ya exista otro torneo activo. |
-| **Tareas requisito** | TR-11 |
-
-#### Tarea 13
-
-| Campo | Descripción |
-|------|-------------|
-| **ID** | TR-13 |
-| **Título** | Implementar activación del torneo |
-| **ID de la Historia de Uso asociada** | HU-04 |
-| **Descripción** | Implementar la actualización del estado del torneo a Active cuando se cumplan las condiciones establecidas. |
-| **Tareas requisito** | TR-12 |
-
-#### Tarea 14
-
-| Campo | Descripción |
-|------|-------------|
-| **ID** | TR-14 |
-| **Título** | Integrar activación del torneo |
-| **ID de la Historia de Uso asociada** | HU-04 |
-| **Descripción** | Integrar la opción de activación de la interfaz con las validaciones y la lógica correspondiente. |
-| **Tareas requisito** | TR-08, TR-12, TR-13 |
+| **Tareas requisito** | SCRUM-27 |
